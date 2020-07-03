@@ -1,4 +1,4 @@
-# Ongeza_online_interview
+# Customer_registration_form
 #setup
 To run this project follow the following steps
 * Create a folder i.e Ongeza in your htdocs and download the files in that folder
