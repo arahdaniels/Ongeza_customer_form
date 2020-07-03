@@ -5,4 +5,9 @@ To run this project follow the following steps
 * Open phpmyadmin create a new database called ongeza_test
 * Import the database files 
 * Run your project in the browser eg: 127.0.0.1/ongeza or localhost/ongeza
+* Fill the form and click register to save data
+* Try to register information without filling all fields
+* Try to register a customer with less than 3 characters for first name
+* CRUD queries are connection.php files under separate functions. 
+
 
